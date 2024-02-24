@@ -1,0 +1,21 @@
+body{
+    background-size:cover ;
+}
+    .heading{
+        font-family: cursive;
+        font-size: 22px;
+        margin: 0;
+        width: 100%;
+        box-shadow: 5px 5px 5px rgb(215, 144, 118);
+        height: 75px;
+    }
+    .note{
+        font-size: 15px;
+        color:black;
+    }
+
+canvas{
+    border: 8px solid rgb(35, 87, 87);
+    border-radius: 60px;
+}
+
